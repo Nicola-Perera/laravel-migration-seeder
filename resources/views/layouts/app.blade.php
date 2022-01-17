@@ -7,7 +7,7 @@
         <title>Travels</title>
 
         <!-- styles -->
-        <link rel="stylesheet" href="../../sass/app.scss">
+        <link rel="stylesheet" href="{{asset('css/app.css')}}">
 
         <!-- script -->
         <script src="{{asset('js/app.js')}}" defer></script>
